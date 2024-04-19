@@ -1,0 +1,5 @@
+config-version: 2
+version: '0.1'
+
+name: 'hiring_analytics_engineer'
+profile: 'development'

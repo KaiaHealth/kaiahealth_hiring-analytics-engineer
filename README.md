@@ -1,4 +1,8 @@
-To initialize the data environment, execute the following commands:
+To initialize the data environment, open a github codespace:
+
+![image that explains how to open github codepsace](images/github-codespace.png)
+
+Once started, execute the following commands in the terminal:
 
 ```
 $ dbt seed

@@ -25,12 +25,12 @@ $ duckcli database.duckdb
 what we get:
 
 ```
-+--------+----------------+
-| uid    | num_activities |
-+--------+----------------+
-| user_3 | 8              |
-| user_4 | 14             |
-| user_5 | 14             |
-| user_1 | 8              |
-+--------+----------------+
++-----------------+----------------+
+| name            | num_activities |
++-----------------+----------------+
+| Uwe Probst      | 14             |
+| Guo Hsiung      | 8              |
+| Harriet Ledesma | 8              |
+| Teresa Dodson   | 14             |
++-----------------+----------------+
 ```

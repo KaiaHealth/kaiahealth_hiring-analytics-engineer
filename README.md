@@ -12,8 +12,14 @@ $ dbt build
 to verify the data product:
 
 ```
+$ dbt test
+```
+
+to inspect the underlying data yourself:
+
+```
 $ duckcli database.duckdb
-> select * from active_users;
+> select * from active_users
 ```
 
 what we get:

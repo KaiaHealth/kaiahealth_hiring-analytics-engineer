@@ -5,6 +5,7 @@ To initialize the data environment, open a github codespace:
 Once started, execute the following commands in the terminal:
 
 ```
+$ dbt deps
 $ dbt seed
 $ dbt build
 ```

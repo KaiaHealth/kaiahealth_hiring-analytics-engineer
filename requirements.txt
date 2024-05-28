@@ -42,7 +42,7 @@ configobj==5.0.8
     # via
     #   cli-helpers
     #   duckcli
-dbt-core==1.7.9
+dbt-core==1.7.15
     # via
     #   -r requirements.in
     #   dbt-duckdb
